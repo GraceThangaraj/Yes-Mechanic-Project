@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="12" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T20:11:35 IST" name="PartnerPanel" finished-at="2025-08-19T20:12:34 IST" duration-ms="59326">
+    <groups>
+    </groups>
+    <test started-at="2025-08-19T20:11:35 IST" name="Test" finished-at="2025-08-19T20:12:34 IST" duration-ms="59326">
+      <class name="yesMechanic.UserPanel">
+        <test-method is-config="true" signature="InitialiseBrowser()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:11:35 IST" name="InitialiseBrowser" finished-at="2025-08-19T20:11:38 IST" duration-ms="2917" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitialiseBrowser -->
+        <test-method signature="loginpage()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:11:38 IST" name="loginpage" finished-at="2025-08-19T20:11:52 IST" duration-ms="14223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method signature="verifyotp()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:11:52 IST" name="verifyotp" finished-at="2025-08-19T20:11:57 IST" duration-ms="5286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyotp -->
+        <test-method signature="location()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:11:58 IST" name="location" finished-at="2025-08-19T20:12:00 IST" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- location -->
+        <test-method signature="notifications()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:00 IST" name="notifications" finished-at="2025-08-19T20:12:10 IST" duration-ms="10066" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- notifications -->
+        <test-method signature="services()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:10 IST" name="services" finished-at="2025-08-19T20:12:12 IST" duration-ms="2294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- services -->
+        <test-method signature="spareparts()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:12 IST" name="spareparts" finished-at="2025-08-19T20:12:14 IST" duration-ms="2250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spareparts -->
+        <test-method signature="BookingCart()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:14 IST" name="BookingCart" finished-at="2025-08-19T20:12:17 IST" duration-ms="2255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BookingCart -->
+        <test-method signature="Booking()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:17 IST" name="Booking" finished-at="2025-08-19T20:12:25 IST" duration-ms="8717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Booking -->
+        <test-method signature="Offers()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:25 IST" name="Offers" finished-at="2025-08-19T20:12:28 IST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Offers -->
+        <test-method signature="Enquiry()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:28 IST" name="Enquiry" finished-at="2025-08-19T20:12:30 IST" duration-ms="2318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enquiry -->
+        <test-method signature="logout()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:30 IST" name="logout" finished-at="2025-08-19T20:12:34 IST" duration-ms="3666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:yesMechanic.UserPanel@5876a9af]" started-at="2025-08-19T20:12:34 IST" name="Teardown" finished-at="2025-08-19T20:12:34 IST" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- yesMechanic.UserPanel -->
+    </test> <!-- Test -->
+  </suite> <!-- PartnerPanel -->
+</testng-results>

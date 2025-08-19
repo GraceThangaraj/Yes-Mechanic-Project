@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PartnerPanel">
+	<test name="Test">
+		<classes>
+			<class name="yesMechanic.UserPanel" />
+
+			<methods>
+				<include name="loginpage"/>
+				<include name="verifyotp"/>
+				<include name="location"/>
+				<include name="notifications"/>
+				<include name="services"/>
+				<include name="spareparts"/>
+				<include name="BookingCart"/>
+				<include name="Booking"/>
+				<include name="Offers"/>
+				<include name="Enquiry"/>
+				<include name="logout"/>
+			</methods>
+		</classes>
+	</test>
+</suite>

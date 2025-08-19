@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="AdminPanel">
+	<test name="Test">
+		<classes>
+			<class name="yesMechanic.AdminPanel" />
+
+			<methods>
+				<include name="LoginPage" />
+				<include name="dashboard" />
+				<include name="servicerequest" />
+				<include name="schedulerequest" />
+				<include name="orders" />
+				<include name="partner" />
+				<include name="jobcards" />
+				<include name="citymanagement" />
+				<include name="vehicle" />
+				<include name="sos" />
+				<include name="Queries" />
+				<include name="customers" />
+				<include name="settings" />
+			</methods>
+		</classes>
+	</test>
+</suite>
